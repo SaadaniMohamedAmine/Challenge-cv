@@ -1,0 +1,65 @@
+body{
+    color:#666666;
+    font-family: 'Inconsolata', monospace;
+}
+#cv-template {
+margin:50px ;
+float:left;
+border:1px solid lightgray;
+padding:10px;
+box-shadow:5px -10px 6px #444;
+background-color:beige;
+}
+.name {
+font-size:30px ;
+font-weight:bolder;
+}
+.path{
+font-size:25px;
+font-weight: bolder;
+color:rgba(102,153,255,0.7)
+}
+h4{
+color:rgba(102,153,255,0.7)
+}
+.first-part{
+padding:10px;
+float:left;
+width:50%;
+}
+.second-part{
+border-left:2px solid black;
+width:30%;
+height:1250px;
+
+padding:20px;
+color:white;
+background-color:#262626;
+float:right;
+}
+.logo{
+padding:20px;
+
+margin:10px auto; 
+}
+.fa {
+margin-bottom:10px;
+}
+
+
+img{ display:block;
+width:250px;
+height:250px;
+
+margin:0px auto;
+
+}
+.info-sup{
+margin:0px auto;
+}
+.list,.list1 {
+line-height:25px;
+}
+.ch{
+color:white;
+}
