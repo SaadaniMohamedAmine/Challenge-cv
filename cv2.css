@@ -1,0 +1,68 @@
+#block1{
+    background-image: url("amine.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#block2{
+    text-align: center;
+    padding:50px;
+    
+}
+ p {text-align:left;
+  
+    
+}
+
+#block4 { ;
+    text-align: left;;
+    padding:10px;
+    line-height:23pt;
+    
+    font-weight:bolder;
+}
+#row1 {
+    height:200px;
+    background-color: #00e6e6;
+    color:white;
+    font-weight: bolder;
+}
+.progress{
+    width:400px;
+    background:#00e6e6;
+}
+#Langues,#Atout,#experience{
+    padding:40px;
+}
+h3{
+    color:#00e6e6;
+}
+.date{
+    font-size:20px;
+    font-weight: bolder;
+    color:gray;
+}
+.points{
+    font-size:20px;
+    font-weight:bolder;
+    color:gray;
+}
+#diplome,#competence {
+    padding:40px;
+}
+h6{
+    color:#808080;
+}
+.titre {
+    color:#00e6e6;
+    font-weight: bold;
+}
+body{
+   
+    padding:40px;
+    margin:30px auto;
+}
+.contour{
+    border:2px solid grey;
+    padding:5px;
+    box-shadow: 7px -4px 6px #444;
+}
